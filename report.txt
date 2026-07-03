@@ -1,0 +1,10 @@
+FITZONE GYM REPORT
+========================================
+
+Total Members : 4
+Monthly Plans : 1
+Quarterly Plans : 2
+Yearly Plans : 1
+Paid Members : 2
+Pending Members : 2
+Expected Revenue : Rs7400
